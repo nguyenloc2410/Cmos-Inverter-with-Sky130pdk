@@ -67,3 +67,6 @@ The figure below will show us in more detail.
 
 After finding Vth, gm(Transconductance parameter) and rds(Linear resistor) take me a quite time :), so this is what I can conclude.As we know that Transconductance (gm) is defined as the ratio between the change in output current and the corresponding change in the input voltage of a MOSFET.
 
+<div align="center">
+<img src="/Images/gm_formula.png">
+</div>
