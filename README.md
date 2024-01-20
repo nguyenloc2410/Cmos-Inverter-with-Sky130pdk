@@ -61,5 +61,7 @@ One thing I want to add and you already known it , that Ig is always equal to 0 
 <img src="/Images/MOSFET_STRUCTURE.png">
 </div>
 
+The plot below will show us in more detail.
+![NMOS CHAR SCHEMATIC](./Images/Igs_plot_nmos.png)
 
 
