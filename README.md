@@ -5,7 +5,7 @@ This is my first personal project using Sky130 for the purpose to research about
 - [1. Tool and PDK Setup](#1-Tools-and-PDK-Setup)
   - [1.1 Tools Setup](#11-Tools-setup)
   - [1.2 PDK Setup](#12-PDK-setup)
-- [2. MOSFET Model](#1-Tools-and-PDK-Setup)
+- [2. MOSFET Models](#2-MOSFET-Models)
 
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
@@ -28,7 +28,7 @@ $  ./configure [options]
 $  make
 $  [sudo] make install
 ```
-
+## MOSFET Models
 
 
 **You should follow the instructions given at [this](http://opencircuitdesign.com/open_pdks/index.html) link**
