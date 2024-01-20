@@ -77,3 +77,6 @@ So this quite easy to find gm, I already have Ids(current output) and Vds(voltag
 The figure above show us Ids from 0 - 2.2V, the current Ids at 1.8V equal to 320uA
 
 ![image](./Images/current_at1.8v.png)
+
+The way to find gm(Transconductance parameter) and rds(Linear resistor) as follow
+
