@@ -62,6 +62,7 @@ One thing I want to add and you already known it , that Ig is always equal to 0 
 </div>
 
 The figure below will show us in more detail.
+
 ![NMOS CHAR SCHEMATIC](./Images/Igs_plot_nmos.png)
 
 
