@@ -65,6 +65,5 @@ The figure below will show us in more detail.
 
 ![NMOS CHAR SCHEMATIC](./Images/Igs_plot_nmos.png)
 
-If I keep Vgs is constant and vary Vds 
-
+After finding Vth, gm(Transconductance parameter) and rds(Linear resistor) take me a quite time :), so this is what I can conclude.As we know that Transconductance (gm) is defined as the ratio between the change in output current and the corresponding change in the input voltage of a MOSFET.
 
