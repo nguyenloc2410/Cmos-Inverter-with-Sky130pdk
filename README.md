@@ -51,8 +51,10 @@ Then you must see the plot below you, if you did a DC sweep on the VGS source fo
 ![NMOS CHAR SCHEMATIC](./Images/Vgs_Vds_plot_nmos.png)
 
 
-In short, as you can see in the figure above I found the Vth approximately equal to 700mV - 800mV, and another figure to show DC sweep on the VDS source for different values of VGS:
+In short, as you can see in the figure above I found the Vth approximately equal to 700mV - 800mV, so if I keep Vds constant at 1.8V and vary Vgs the formula of Ids equals to : 
 
+
+and another figure to show DC sweep on the VDS source for different values of VGS:
 ![NMOS CHAR SCHEMATIC](./Images/Vds_Vgs_plot_nmos.png)
 
 One thing I want to add and you already known it , that Ig is always equal to 0 because in the MOSFET has a dielectric layer as know as Oxide(Si02), it seperate G terminal and the other 3 terminals
