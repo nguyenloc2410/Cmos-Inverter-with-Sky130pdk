@@ -34,6 +34,9 @@ $  [sudo] make install
 ---
 ## 2. MOSFET Models
 ### 2.1 Common characteristics of MOSFET
-In this part I going to find Vth(threshold), gm(Transconductance parameter), rds(Linear resistor) by plot Ids vs Vds and Ids cs Vgs.
+In this part I going to find Vth(threshold), gm(Transconductance parameter), rds(Linear resistor) by plot Ids vs Vds and Ids cs Vgs with NMOS_1V8 circuit below:
+
+![NMOS CHAR SCHEMATIC](./Images/nfet_circuit.png)
+
 
 
