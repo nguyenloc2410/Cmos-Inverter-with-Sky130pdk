@@ -15,7 +15,7 @@ For the design and simulation of our Inverter.
 
 ### 1.2 PDK setup
 The PDK we are going to use for this BGR is Google Skywater-130 (130 nm) PDK.
-![image](https://user-images.githubusercontent.com/49194847/138075630-d1bdacac-d37b-45d3-88b5-80f118af37cd.png)
+![image](https://repository-images.githubusercontent.com/261898494/aad8d100-9079-11ea-8b72-8f2bc8363e36)
 
 
 **Steps to download PDK** - Open the terminal and type the following to download sky130 PDK.
