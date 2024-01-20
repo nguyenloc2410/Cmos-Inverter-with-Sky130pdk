@@ -57,3 +57,9 @@ In short, as you can see in the figure above I found the Vth approximately equal
 
 One thing I want to add and you already known it , that Ig is always equal to 0 because in the MOSFET has a dielectric layer as know as Oxide(Si02), it seperate G terminal and the other 3 terminals
 
+<div align="center">
+<img src="/Images/MOSFET_STRUCTURE.png">
+</div>
+
+
+
