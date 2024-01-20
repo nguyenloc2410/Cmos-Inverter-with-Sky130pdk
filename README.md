@@ -58,7 +58,7 @@ In short, as you can see in the figure above I found the Vth approximately equal
 <img src="/Images/formula_finding_Ids.jpeg">
 </div>
 
-So I could easily find the constant of μn/Cox = 174μA/V^2
+So I could easily find the constant μn/Cox = 174μA/V^2 of MOSFET
 
 And another figure to show DC sweep on the VDS source for different values of VGS:
 ![NMOS CHAR SCHEMATIC](./Images/Vds_Vgs_plot_nmos.png)
@@ -80,11 +80,9 @@ After finding Vth, gm(Transconductance parameter) and rds(Linear resistor) take 
 </div>
 So this quite easy to find gm, I already have Ids(current output) and Vds(voltage input) so just using deriv() function, keep Vds constant at 1.8V and vary Vgs.
 
-![image](./Images/current_ids.png)
+![image](./Images/current_at1.8v.png)
 
 The figure above show us Ids from 0 - 2.2V, the current Ids at 1.8V equal to 320uA
-
-![image](./Images/current_at1.8v.png)
 
 The way to find gm(Transconductance parameter) and rds(Linear resistor) as follow
 ![image](./Images/gm_plot.png)
