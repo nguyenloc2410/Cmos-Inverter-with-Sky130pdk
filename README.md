@@ -72,7 +72,8 @@ After finding Vth, gm(Transconductance parameter) and rds(Linear resistor) take 
 </div>
 So this quite easy to find gm, I already have Ids(current output) and Vds(voltage input) so just using deriv() function, keep Vds constant at 1.8V and vary Vgs.
 
-![image](./Images/current_at1v8.png)
+![image](./Images/current_ids.png)
 
 The figure above show us Ids from 0 - 2.2V, the current Ids at 1.8V equal to 320uA
 
+![image](./Images/current_at1v8.png)
