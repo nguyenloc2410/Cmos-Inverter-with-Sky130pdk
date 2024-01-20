@@ -70,4 +70,6 @@ After finding Vth, gm(Transconductance parameter) and rds(Linear resistor) take 
 <div align="center">
 <img src="/Images/gm_formula.png">
 </div>
-So this quite easy to find gm, I already have Ids(current output) and Vds(voltage input) so just using deriv() function 
+So this quite easy to find gm, I already have Ids(current output) and Vds(voltage input) so just using deriv() function, keep Vds constant at 1.8V and vary Vgs.
+
+
