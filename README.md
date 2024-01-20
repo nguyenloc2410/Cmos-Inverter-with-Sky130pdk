@@ -8,6 +8,7 @@ This is my first personal project using Sky130 for the purpose to research about
   - [1.1 Tools Setup](#11-Tools-setup)
   - [1.2 PDK Setup](#12-PDK-setup)
 - [2. MOSFET Models](#2-MOSFET-Models)
+---
 
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
