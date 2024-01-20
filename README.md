@@ -55,7 +55,7 @@ Then you must see the plot below you, if you did a DC sweep on the VGS source fo
 In short, as you can see in the figure above I found the Vth approximately equal to 700mV - 800mV, so if I keep Vds constant at 1.8V and vary Vgs the formula of Ids if(Vds >= Vgs - Vth), which means MOSFET is in Saturation.
 
 <div align="center">
-<img src="/Images/Ids_formula_constantVds_saturation.png">
+<img src="/Images/formula_finding_Ids.jpeg">
 </div>
 
 So I could easily find the constant of μn/Cox = 174μA/V^2
