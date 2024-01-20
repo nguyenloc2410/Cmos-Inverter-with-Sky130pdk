@@ -50,6 +50,7 @@ Then you must see the plot below you, if you did a DC sweep on the VGS source fo
 
 ![NMOS CHAR SCHEMATIC](./Images/Vgs_Vds_plot_nmos.png)
 
+![NMOS CHAR SCHEMATIC](./Images/current_at1.8v.png)
 
 In short, as you can see in the figure above I found the Vth approximately equal to 700mV - 800mV, so if I keep Vds constant at 1.8V and vary Vgs the formula of Ids if(Vds >= Vgs - Vth), which means MOSFET is in Saturation.
 
