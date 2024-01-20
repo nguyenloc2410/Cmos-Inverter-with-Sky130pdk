@@ -44,4 +44,8 @@ Then you must see the plot below you, if you did a DC sweep on the VGS source fo
 In reality, the turn-on phenomenon is a gradual function of the gate voltage, making it difficult to define VTH unambiguously. In semiconductor physics, the VTH of an NFET is usually defined as the gate voltage for which the interface is “as much n-type as the substrate is p-type.” It can be proved that 
 
 
+<div align="center">
+<img src="/Images/threshold_formula.png">
+</div>
+
 
