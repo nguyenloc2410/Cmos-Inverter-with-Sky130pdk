@@ -33,7 +33,9 @@ $  [sudo] make install
 **You should follow the instructions given at [this](http://opencircuitdesign.com/open_pdks/index.html) link**
 ---
 ## 2. MOSFET Models
-### 2.1 Common characteristics of MOSFET
+. First list item
+     - First nested list item
+  
 In this part I going to find Vth(threshold), gm(Transconductance parameter), rds(Linear resistor) by plot Ids vs Vds and Ids vs Vgs with NMOS_1V8 circuit below:
 
 ![NMOS CHAR SCHEMATIC](./Images/nfet_circuit.png)
