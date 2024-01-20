@@ -30,7 +30,7 @@ $  ./configure [options]
 $  make
 $  [sudo] make install
 ```
-**You should follow the instructions given at [this](http://opencircuitdesign.com/open_pdks/index.html) link**
+You should follow the instructions given at [this](http://opencircuitdesign.com/open_pdks/index.html) link
 ---
 ## 2. MOSFET Models
 
