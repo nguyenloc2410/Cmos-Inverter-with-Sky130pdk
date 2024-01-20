@@ -38,5 +38,10 @@ In this part I going to find Vth(threshold), gm(Transconductance parameter), rds
 
 ![NMOS CHAR SCHEMATIC](./Images/nfet_circuit.png)
 
+Then you must see the plot below you, if you did a DC sweep on the VGS source for different values of VDS:
+
+![NMOS CHAR SCHEMATIC](./Images/Vgs_Vds_plot_nmos.png)
+In reality, the turn-on phenomenon is a gradual function of the gate voltage, making it difficult to define VTH unambiguously. In semiconductor physics, the VTH of an NFET is usually defined as the gate voltage for which the interface is “as much n-type as the substrate is p-type.” It can be proved that 
+
 
 
