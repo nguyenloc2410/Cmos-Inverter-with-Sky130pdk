@@ -65,4 +65,6 @@ The figure below will show us in more detail.
 
 ![NMOS CHAR SCHEMATIC](./Images/Igs_plot_nmos.png)
 
+If I keep Vgs is constant and vary Vds 
+
 
