@@ -99,6 +99,8 @@ As you can see at 1.8V the current just equal to 200uA, so I adjust ratio (W/L) 
 ![image](./Images/pmos_Id_Vgs_final.png)
 
  ### 2.2 Characteristics of NMOS and PMOS
-Before we start to analysis CMOS Inverter, we must know why people merge NMOS and PMOS together to create it.
-And these are two arguments that we often encounter.
+Before we start to analysis CMOS Inverter, we must know why people merge NMOS and PMOS together to create it.And these are two arguments that we often encounter.</br>
+<ins>NMOS(Strong 0 and Weak 1)</ins></br>
+<ins>PMOS(Strong 1 and Weak 0)</ins></br>
+Let begin with NMOS first.
 
