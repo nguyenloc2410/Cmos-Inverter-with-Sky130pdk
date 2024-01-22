@@ -35,6 +35,7 @@ $  [sudo] make install
 ## 2. MOSFET Models
 
  ### 2.1 Basic parameters
+ ### 2.2 Characteristics of NMOS and PMOS
  
 In this part I going to find Vth(threshold), gm(Transconductance parameter), rds(Linear resistor) by plot Ids vs Vds and Ids vs Vgs with NMOS_1V8 circuit below:
 
