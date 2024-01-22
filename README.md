@@ -8,6 +8,8 @@ This is my first personal project using Sky130 for the purpose to research about
   - [1.1 Tools Setup](#11-Tools-setup)
   - [1.2 PDK Setup](#12-PDK-setup)
 - [2. MOSFET Models](#2-MOSFET-Models)
+  - [1.1 Basic Parameters](#11-Tools-setup)
+  - [1.1 ](#11-Characteristics-of-NMOS-and-PMOS)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
@@ -36,7 +38,6 @@ $  [sudo] make install
 
  ### 2.1 Basic parameters
  ### 2.2 Characteristics of NMOS and PMOS
- 
 In this part I going to find Vth(threshold), gm(Transconductance parameter), rds(Linear resistor) by plot Ids vs Vds and Ids vs Vgs with NMOS_1V8 circuit below:
 
 ![NMOS CHAR SCHEMATIC](./Images/nfet_circuit.png)
