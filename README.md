@@ -104,5 +104,5 @@ Before we start to analysis CMOS Inverter, we must know why people merge NMOS an
 <ins>PMOS(Strong 1 and Weak 0)</ins></br>
 Let begin with NMOS first.
 ![image](./Images/nmos_weak1_strong0.png)
-
+![image](./Images/nmos_weak1_strong0_plot.png)
 
