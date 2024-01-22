@@ -92,9 +92,9 @@ The way to find gm(Transconductance parameter) and rds(Linear resistor) as follo
 Similarly for PMOS the figure below is Ids/Vgs
 
 ![image](./Images/pmos_Id_Vgs.png)
- As you can see at 1.8V the current just equal to 200uA, so I adjust ratio (W/L) of pmos (4 times the ratio of NMOS) to increase Id upto approximately 320uA like the same NMOS and here is the result.
+As you can see at 1.8V the current just equal to 200uA, so I adjust ratio (W/L) of PMOS (4 times the ratio of NMOS) to increase Id upto approximately 320uA like the same what I did to NMOS and here is the result, ofcourse the Vth was changed as well
 
-![image](./Images/pmos_Id_Vgs.png)
+![image](./Images/pmos_Id_Vgs_final.png)
 
 
 
