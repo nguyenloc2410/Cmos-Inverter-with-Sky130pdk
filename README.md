@@ -8,8 +8,8 @@ This is my first personal project using Sky130 for the purpose to research about
   - [1.1 Tools Setup](#11-Tools-setup)
   - [1.2 PDK Setup](#12-PDK-setup)
 - [2. MOSFET Models](#2-MOSFET-Models)
-  - [1.1 Basic Parameters](#11-Tools-setup)
-  - [1.1 ](#11-Characteristics-of-NMOS-and-PMOS)
+  - [2.1 Basic Parameters](#21-Basic-parameters)
+  - [2.2 Characteristics of NMOS and PMOS](#11-Characteristics-of-NMOS-and-PMOS)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
