@@ -105,4 +105,4 @@ Before we start to analysis CMOS Inverter, we must know why people merge NMOS an
 Let begin with NMOS first.
 ![image](./Images/nmos_weak1_strong0.png)
 ![image](./Images/nmos_weak1_strong0_plot.png)
-
+As you can see the figure above when the Input is logic 0, the Output voltage is HIGH and opposite to when the Input is logic 1, the Output voltage is not enough HIGH, inferred NMOS is Strong 0 and Weak 1
