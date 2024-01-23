@@ -111,3 +111,5 @@ Simiraly with PMOS when the Input is high ,Vgs = 0 greater than Vth(-0.65V) so P
 
 ![image](./Images/pmos_weak0_strong1.png)
 ![image](./Images/pmos_weak0_strong1_plot.png)
+
+Through the above two concepts we can conclude that PMOS is strong "1" and NMOS is strong "0" suitable for creating CMOS Inverter
