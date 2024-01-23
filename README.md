@@ -106,3 +106,8 @@ Let begin with NMOS first.
 ![image](./Images/nmos_weak1_strong0.png)
 ![image](./Images/nmos_weak1_strong0_plot.png)
 As you can see the figure above when the Input is logic 0, the Output voltage is HIGH and opposite to when the Input is logic 1, the Output voltage is not enough HIGH because Vs is not allowed to exceed (Vdd - Vth) that will make NMOS turn off, so inferred NMOS is Strong 0 and Weak 1
+
+Simiraly with PMOS when the Input is high ,Vgs = 0 greater than Vth(-0.65V) so PMOS is turn off and Vout equal to 0, but when the input is LOW Vgs = -1.8V is smaller than Vth(-0.65) so the PMOS is turn on but Vout just only reach to 0.6V approximately to Vth.
+
+![image](./Images/pmos_weak0_strong1.png)
+![image](./Images/pmos_weak0_strong1_plot.png)
