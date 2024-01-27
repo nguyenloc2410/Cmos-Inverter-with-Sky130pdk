@@ -12,7 +12,6 @@ This is my first personal project using Sky130 for the purpose to research about
   - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
 - [3. CMOS Characteristic](#3-CMOS-Characteristic)
   - [3.1 Undefined Region](#31-Undefined-Region)
-  - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
@@ -118,3 +117,4 @@ Simiraly with PMOS when the Input is high ,Vgs = 0 greater than Vth(-0.65V) so P
 Through the above two concepts we can conclude that PMOS is strong "1" and NMOS is strong "0" suitable for creating CMOS Inverter
 
 ## 3. CMOS Characteristic
+ ### 3.1 Undefined Region
