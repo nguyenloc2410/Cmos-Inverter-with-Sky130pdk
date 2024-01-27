@@ -118,3 +118,4 @@ Through the above two concepts we can conclude that PMOS is strong "1" and NMOS 
 
 ## 3. CMOS Characteristic
  ### 3.1 Undefined Region
+ The region between VIH and VIL is called the undefined region (sometimes also referred to as transition width, or TW). Steady-state signals should avoid this region if proper circuit operation is to be ensured.
