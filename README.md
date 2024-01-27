@@ -10,7 +10,7 @@ This is my first personal project using Sky130 for the purpose to research about
 - [2. MOSFET Models](#2-MOSFET-Models)
   - [2.1 Basic Parameters](#21-Basic-parameters)
   - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
-- [2. MOSFET Models](#2-MOSFET-Models)
+- [3. CMOS Characteristic](#3-CMOS-Characteristic)
   - [2.1 Basic Parameters](#21-Basic-parameters)
   - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
 ---
