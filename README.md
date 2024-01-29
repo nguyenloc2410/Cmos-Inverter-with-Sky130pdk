@@ -12,6 +12,7 @@ This is my first personal project using Sky130 for the purpose to research about
   - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
 - [3. CMOS Characteristic](#3-CMOS-Characteristic)
   - [3.1 Undefined Region](#31-Undefined-Region)
+  - [3.1 [Performance([Propagation Delay)](#32-Propagation-Delay)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
@@ -128,5 +129,7 @@ Thence inferred, VIH approximately equals to 0.75V and VIL approximately equals 
 Another point of interest of the VTC is the gate or switching threshold voltage VM(the intersection between Vout and Vin),which is obtained when the output of a gate is short-circuited to the input and be sure you not confused with Vth of the MOSFET !!!
 
  ![image](./Images/vmp.png)
+
+ ### 3.2 Propagation Delay
 
 
