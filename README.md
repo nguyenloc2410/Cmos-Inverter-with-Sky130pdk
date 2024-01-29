@@ -12,7 +12,7 @@ This is my first personal project using Sky130 for the purpose to research about
   - [2.2 Characteristics of NMOS and PMOS](#22-Characteristics-of-NMOS-and-PMOS)
 - [3. CMOS Characteristic](#3-CMOS-Characteristic)
   - [3.1 Undefined Region](#31-Undefined-Region)
-  - [3.1 [Performance([Propagation Delay])(#32-Propagation-Delay)
+  - [3.1 [Performance(Propagation Delay)](#32-Propagation-Delay)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
