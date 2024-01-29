@@ -101,7 +101,7 @@ As you can see at 1.8V the current just equal to 200uA, so I adjust ratio (W/L) 
 ![image](./Images/pmos_Id_Vgs_final.png)
 
  ### 2.2 Characteristics of NMOS and PMOS
-Before we start to analysis CMOS Inverter, we must know why people merge NMOS and PMOS together to create it.And these are two arguments that we often encounter.</br>
+Before we start to analysis CMOS Inverter, we must know why people merge NMOS and PMOS together to create it.And these are two arguments that we often encounter.c
 <ins>NMOS(Strong 0 and Weak 1)</ins></br>
 <ins>PMOS(Strong 1 and Weak 0)</ins></br>
 Let begin with NMOS first.
@@ -123,7 +123,7 @@ Through the above two concepts we can conclude that PMOS is strong "1" and NMOS 
 
 The region between VIH and VIL is called the undefined region (sometimes also referred to as transition width, or TW). Steady-state signals should avoid this region if proper circuit operation is to be ensured.
 
-Thence inferred, VIH approximately equals to 0.75V and VIL approximately equals 0.98V
+Thence inferred, VIH approximately equals to 0.75V and VIL approximately equals 0.98V </br>
 Another point of interest of the VTC is the gate or switching threshold voltage VM(the intersection between Vout and Vin),which is obtained when the output of a gate is short-circuited to the input
 
  ![image](./Images/vmp.png)
