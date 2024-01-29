@@ -133,7 +133,7 @@ Another point of interest of the VTC is the gate or switching threshold voltage 
  ![image](./Images/vmp.png)
 
  ### 3.2 Propagation Delay
-The propagation delay tp of a gate defines how quickly it responds to a change at its input(s). It expresses the delay experienced by a signal when passing through a gate</br>
+The propagation delay tp of a gate defines how quickly it responds to a change at its input(s). It expresses the delay experienced by a signal when passing through a gate.It is measured between the 50% transition points of the input and output waveforms</br>
 <div align="center">
 <img src="/Images/delay_formula.png">
 </div>
