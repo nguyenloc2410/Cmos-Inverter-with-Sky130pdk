@@ -139,4 +139,6 @@ The propagation delay tp of a gate defines how quickly it responds to a change a
 </div>
 And be careful while you calculate that Tphl and Tplh is different because the structure of NMOS and PMOS is different as well if you following this report. So let start to calculate Tphl and Tplh.
 
+ ![image](./Images/delay_picture.png)
+
  ![image](./Images/delay_plot.png)
