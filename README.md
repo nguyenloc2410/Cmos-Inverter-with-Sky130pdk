@@ -124,3 +124,4 @@ Through the above two concepts we can conclude that PMOS is strong "1" and NMOS 
 The region between VIH and VIL is called the undefined region (sometimes also referred to as transition width, or TW). Steady-state signals should avoid this region if proper circuit operation is to be ensured.
 
 Thence inferred, VIH approximately equals to 0.75V and VIL approximately equals 0.98V
+Another point of interest of the VTC is the gate or switching threshold voltage VM,which is obtained when the output of a gate is short-circuited to the input
