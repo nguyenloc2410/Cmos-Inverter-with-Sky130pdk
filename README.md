@@ -125,3 +125,7 @@ The region between VIH and VIL is called the undefined region (sometimes also re
 
 Thence inferred, VIH approximately equals to 0.75V and VIL approximately equals 0.98V
 Another point of interest of the VTC is the gate or switching threshold voltage VM(the intersection between Vout and Vin),which is obtained when the output of a gate is short-circuited to the input
+
+ ![image](./Images/vm.png)
+
+
