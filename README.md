@@ -144,3 +144,6 @@ And be careful while you calculate that Tphl and Tplh is different because the s
 </div>
 
  ![image](./Images/delay_plot.png)
+
+  ![image](./Images/tpHL.png)
+
