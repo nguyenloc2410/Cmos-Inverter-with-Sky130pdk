@@ -146,4 +146,6 @@ And be careful while you calculate that Tphl and Tplh is different because the s
  ![image](./Images/delay_plot.png)
 
   ![image](./Images/tpHL.png)
+  ![image](./Images/tpLH.png)
+
 
