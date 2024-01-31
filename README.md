@@ -13,6 +13,7 @@ This is my first personal project using Sky130 for the purpose to research about
 - [3. CMOS Characteristic](#3-CMOS-Characteristic)
   - [3.1 Undefined Region](#31-Undefined-Region)
   - [3.2 Performance(Propagation Delay)](#32-Propagation-Delay)
+  - [3.3 Adjust performance](#33-Adjust-performance)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
@@ -153,4 +154,4 @@ So after we have those 2 quantities are there, just easily to find tp based on t
 <div align="center">
 <img src="/Images/tp.png">
 </div>
-
+ ### 3.3 Adjust performance
