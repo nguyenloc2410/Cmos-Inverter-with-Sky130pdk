@@ -147,5 +147,9 @@ And be careful while you calculate that Tphl and Tplh is different because the s
 
   ![image](./Images/tpHL.png)
   ![image](./Images/tpLH.png)
+  
+So after we have those 2 quantities are there, just easily to find tp based on the formula of tp,equal to 30.27ps.
+
+  ![image](./Images/tpLH.png)
 
 
