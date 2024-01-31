@@ -156,5 +156,6 @@ So after we have those 2 quantities are there, just easily to find tp based on t
 </div>
 
  ### 3.3 Adjust performance
- As you know that tf(the time rise) is independent on Vin, so right here i can adjust the performance through the structure of CMOS and PMOS.
- I 
+ As you know that tf(the time rise) is independent on Vin, so let find it when our CMOS have no load at Vout.
+   ![image](./Images/tpLH.png)
+
