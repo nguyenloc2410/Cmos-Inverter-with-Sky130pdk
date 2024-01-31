@@ -157,5 +157,5 @@ So after we have those 2 quantities are there, just easily to find tp based on t
 
  ### 3.3 Adjust performance
  As you know that tf(the time rise) is independent on Vin, so let find it when our CMOS have no load at Vout.
-   ![image](./Images/tpLH.png)
+   ![image](./Images/tr_have_no_load.png)
 
