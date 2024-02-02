@@ -166,3 +166,6 @@ I will increase the width of the NMOS and PMOS to see the difference.Let's see w
 <img src="/Images/tr_have_no1_load.png">
 </div>
 Hmmm well it does change, but the change is quite small :) because at here we have no capacitor load so we do not see the difference clearly. So I going to put 1 capacitor at output.Let's see if there's any difference this time.
+
+  ![image](./Images/tr_with_capacitor_plot.png)
+
