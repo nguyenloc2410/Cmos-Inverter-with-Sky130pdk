@@ -162,3 +162,6 @@ So after we have those 2 quantities are there, just easily to find tp based on t
 <img src="/Images/tr_have_no_load.png">
 </div>
 I will increase the width of the NMOS and PMOS to see the difference.Let's see whether "tr" increases or decreases ?.
+<div align="center">
+<img src="/Images/tr_have_no1_load.png">
+</div>
