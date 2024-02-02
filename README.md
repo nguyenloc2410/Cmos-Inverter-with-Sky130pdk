@@ -173,3 +173,4 @@ Hmmm well it does change, but the change is quite small :) because at here we ha
 <img src="/Images/tr_with_capacitor.png">
 </div>
 
+If you increase the width of NMOS and PMOS without the load at output it does not change any much but it very useful when you have a load at the output such as capacitor as I did.
