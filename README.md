@@ -186,3 +186,5 @@ And here this the netlist_file I generate (I make a mistake when I draw the widt
 <div align="center">
 <img src="/Images/netlist_layout.png">
 </div>
+So let finish the last step, I going to simualate this layout and see what happens.
+  ![image](./Images/layout.png)
