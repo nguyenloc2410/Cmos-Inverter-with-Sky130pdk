@@ -181,4 +181,8 @@ If you increase the width of NMOS and PMOS without the load at output it does no
 At this section I used magic for draw a layout of CMOS Inverter.
 
   ![image](./Images/layout.png)
+And here this the netlist_file I generate (I make a mistake when I draw the width of the PMOS but just let it be)
 
+<div align="center">
+<img src="/Images/netlist_layout.png">
+</div>
