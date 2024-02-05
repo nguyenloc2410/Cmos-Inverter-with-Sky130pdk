@@ -14,7 +14,7 @@ This is my first personal project using Sky130 for the purpose to research about
   - [3.1 Undefined Region](#31-Undefined-Region)
   - [3.2 Performance(Propagation Delay)](#32-Propagation-Delay)
   - [3.3 Adjust performance](#33-Adjust-performance)
-- [4. CMOS Layout](#3-CMOS-Layout)
+- [4. CMOS Layout](#4-CMOS-Layout)
   - [4.1 Layout](#41-Layout)
 ---
 ## 1. Tools and PDK Setup
@@ -177,4 +177,4 @@ Hmmm well it does change, but the change is quite small :) because at here we ha
 
 If you increase the width of NMOS and PMOS without the load at output it does not change any much but it very useful when you have a load at the output such as capacitor as I did. So when someone told you that they want to increase the speed of the CMOS without change Vdd or load capacitor you can increase the width(structure) of the transistor.
 
-###4.1 Layout
+###4.1 CMOS Layout 
