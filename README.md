@@ -180,5 +180,5 @@ If you increase the width of NMOS and PMOS without the load at output it does no
 ### 4. CMOS Layout 
 At this section I used magic for draw a layout of CMOS Inverter.
 
-  ![image](./Images/tr_with_capacitor_plot.png)
+  ![image](./Images/layout.png)
 
