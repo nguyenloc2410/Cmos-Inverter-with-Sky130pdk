@@ -176,3 +176,5 @@ Hmmm well it does change, but the change is quite small :) because at here we ha
 </div>
 
 If you increase the width of NMOS and PMOS without the load at output it does not change any much but it very useful when you have a load at the output such as capacitor as I did. So when someone told you that they want to increase the speed of the CMOS without change Vdd or load capacitor you can increase the width(structure) of the transistor.
+
+###4.1 Layout
