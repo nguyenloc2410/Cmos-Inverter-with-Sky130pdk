@@ -14,6 +14,8 @@ This is my first personal project using Sky130 for the purpose to research about
   - [3.1 Undefined Region](#31-Undefined-Region)
   - [3.2 Performance(Propagation Delay)](#32-Propagation-Delay)
   - [3.3 Adjust performance](#33-Adjust-performance)
+- [4. CMOS Layout](#3-CMOS-Layout)
+  - [4.1 Layout](#41-Layout)
 ---
 ## 1. Tools and PDK Setup
 ### 1.1 Tools setup
